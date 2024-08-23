@@ -1,4 +1,4 @@
-# Flight_Reservation_System
+# Check My Ingredient
 This project introduces "Check My Ingredient," an AI assistant designed to enhance consumer health awareness by helping decode complex scientific names and codes on product labels. The application aims to inform consumers about potential health risks associated with everyday products by interpreting health-related data and delivering real-time health reports. 
 
 1. [Introduction](#introduction)
